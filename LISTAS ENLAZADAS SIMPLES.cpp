@@ -1069,7 +1069,7 @@ void retirar6(){
 				p61=p61->sig61;	
 			}	
 			//sale dl ciclo solo cuando haya recorrido por completos ambas listas
-			if(p61 ==NULL&&p61==NULL){
+			if(p6==NULL&&p61==NULL){
 				opc='N';
 			}	
 			else{
@@ -1283,7 +1283,7 @@ void rep7(){
 				p71=p71->sig71;	
 			}	
 			//sale del ciclo solo cuando haya recorrido por completos ambas listas
-			if(p71 ==NULL&&p71==NULL){
+			if(p7==NULL&&p71==NULL){
 				opc='N';
 			}	
 			else{
